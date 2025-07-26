@@ -2,7 +2,7 @@
 
 ![Password Safe GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydWl1MXE5ZnllMG5hMmNrcmdkNXd0dGJsbzQyNnV2MHA3emtubHB1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/source.gif)
 
-────────────────────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────
 
 ## 📌 Описание
 
